@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  background-color:#111;
+
+}
+#tit{
+  color:black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-size: x-large;
+  font-size: 40px;;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+}
+#logo{
+
+    background-color:white;
+
+}
+.table{
+  border-width: 10%;
+  width:10%;
+}
+
+
+#c{
+  border-width: 5%;
+ 
+
+}
+#title{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:25px;
+  color:black;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+ 
+
+  }
+}
+#link{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:15px;
+  color:gold;
+  }
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+#ti{
+
+ 
+  color:yellow;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
